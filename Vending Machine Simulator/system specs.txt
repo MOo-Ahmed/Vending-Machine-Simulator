@@ -1,0 +1,15 @@
+• The machine sells food items and drinks by inserting money in it and requesting an available
+item, then the machine dispatches this item and the rest of the money.
+• When the machine (or model) starts, it starts with a default quantity of each item it sells and a
+default amount of money it terms of which coins and bills are available and the number
+available of each coin or bill.
+• The machine can carry up to 10 items, each has 10 unit maximum. Each item has a specific
+price.
+• There is only one type of users of the machine, which are buyers.
+• A buyer puts coins (1/2 LE, or 1 LE) and/or bills +(5, 10 or 20 LE) and presses the number of
+the item he wants.
+• If he puts enough money, the machine dispatches the required item and the change.
+• If the required item is not available, the machine will display a message informing him that the
+item is not available and gives him the choice of picking another item or returning his money.
+• If the customer wants to cancel an operation, he presses 0 and his money is returned.
+• If the machine runs out of stock in all items. It stops accepting money or choices from buyers.
